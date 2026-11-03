@@ -1,0 +1,6 @@
+duckdb>=2.0
+pandas>=3.0
+statsmodels
+scipy
+matplotlib
+jupyter
